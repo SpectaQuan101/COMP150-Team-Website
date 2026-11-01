@@ -16,7 +16,6 @@ p {
     color: red;
 }
 
-/** CSS comments are written enclosed with these characters **/
 
 .myclass {
     background-color: #fff7e8; /** hex codes also work for colors **/
@@ -47,12 +46,10 @@ a {
     font-weight: bold;
 }
 
-/* Keeps links pink after being clicked */
 a:visited {
     color: #FF69B4;
 }
 
-/* Keeps links the exact same pink on hover */
 a:hover {
     color: #FF69B4;
     text-decoration: underline;
