@@ -1,7 +1,7 @@
 body {
     background-color: #e9ecef;
     font-family: "Times New Roman", Times, serif;
-    margin: 50px;
+    margin: 40px;
 }
 
 h1 {
@@ -16,9 +16,40 @@ p {
     color: orange;
 }
 
-/* Pink Team Member Links */
-a, a:visited, a:hover {
+.myclass {
+    background-color: #fff7e8; 
+}
+
+#unique-id {
+    font-family: "Times New Roman", Times, serif;
+}
+
+a {
+    color: #1F456E;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: #1F456E;
+}
+
+a:hover {
+    color: #318CE7;
+    text-decoration: underline;
+}
+
+a {
     color: #FF69B4;
     text-decoration: none;
     font-weight: bold;
+}
+
+a:visited {
+    color: #FF69B4;
+}
+
+a:hover {
+    color: #FF69B4;
+    text-decoration: underline;
 }
