@@ -16,26 +16,9 @@ p {
     color: orange;
 }
 
-
-.myclass {
-    background-color: #fff7e8; /** hex codes also work for colors **/
-}
-
-#unique-id {
-    font-family: "Times New Roman", Times, serif;
-}
-
-a {
-    color: #1F456E;
+/* Pink Team Member Links */
+a, a:visited, a:hover {
+    color: #FF69B4;
     text-decoration: none;
     font-weight: bold;
-}
-
-a:visited {
-    color: #1F456E;
-}
-
-a:hover {
-    color: #318CE7;
-    text-decoration: underline;
 }
