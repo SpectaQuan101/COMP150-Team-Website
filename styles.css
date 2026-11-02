@@ -56,3 +56,10 @@ a:hover {
     color: #FF69B4;
     text-decoration: underline;
 }
+h1 {
+    color: #ff0000 !important;
+}
+
+h2 {
+    color: #ff0000 !important;
+}
