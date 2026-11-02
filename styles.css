@@ -1,7 +1,10 @@
 body {
     background-color: #e0f2fe;
-    font-family: "Times New Roman", Times, serif;
-    margin: 50px;
+    background-image: url('earth.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 h1 {
