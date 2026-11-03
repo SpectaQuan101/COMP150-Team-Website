@@ -54,7 +54,7 @@ a:visited {
 
 a:hover {
     color: #FF69B4;
-    text-decoration: underline;
+    text-decoration: border;
 }
 h1 {
     color: #ff0000 !important;
