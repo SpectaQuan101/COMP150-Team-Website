@@ -40,7 +40,9 @@ h2 {
 
 ul {
     list-style-type: disc;
-    padding-left: 20px;
+    list-style-position: inside; /* <-- ADDED THIS */
+    padding: 0;                   /* <-- CHANGED THIS */
+    margin: 0 auto;               /* <-- ADDED THIS */
 }
 
 li {
