@@ -20,6 +20,13 @@ body {
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
     text-align: center;
 }
+   
+    .content-box p {
+    font-family: "Times New Roman", Times, serif;
+    color: green !important;
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+}
 
 h1 {
     font-family: "Barletta", sans-serif;
